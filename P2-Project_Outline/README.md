@@ -22,9 +22,12 @@ Contact - Users will be able to click a teacher email address in the app and ope
 ### Technologies
 Angular
 Bootstrap
+FireBase
  
 I'm not sure what other Technologies I'll need yet.  Will definitely be looking for ways to use something new.
 ### What I'll Have to Learn
 -I'll need to learn how to apply the "Compose Email" feature.
+-I'll need to learn to implement firebase for user authentication
+-I'll need to learn how to implement the 'drag and drop links' feature
 ### Project Tracker
 https://trello.com/samanthaleonard11/boards
